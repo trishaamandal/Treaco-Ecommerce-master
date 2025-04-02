@@ -1,17 +1,5 @@
 # Install following packages
-
-0. Create project with vite
-   // optional if not installed type it otherwise skip
-   npm create vite@latest
-
-   npm create vite@latest YOUR_FOLDER_NAME -- --template  
-   cd YOUR_FOLDER_NAME
-
-   npm install
-   npm run dev
-
-   Website Link => https://vite.dev/guide/
-
+npm run dev 
 1. Redux toolkit
    npm install @reduxjs/toolkit
    npm install react-redux
